@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^assets/img/upload/.*\.(php|exe|sh)$ - [F,L,NC]
+</IfModule>

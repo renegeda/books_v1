@@ -1,0 +1,155 @@
+[15-May-2025 17:06:12 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:06:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:06:12 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:06:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:13 Europe/Berlin] PHP Warning:  mkdir(): File exists in G:\xampp\htdocs\books_2_1\config\config.php on line 34
+[15-May-2025 17:08:13 Europe/Berlin] Failed to create upload directory
+[15-May-2025 17:08:13 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:13 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:13 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:13 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:23 Europe/Berlin] PHP Warning:  mkdir(): File exists in G:\xampp\htdocs\books_2_1\config\config.php on line 34
+[15-May-2025 17:08:23 Europe/Berlin] Failed to create upload directory
+[15-May-2025 17:08:23 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:23 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:23 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:23 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:24 Europe/Berlin] PHP Warning:  mkdir(): File exists in G:\xampp\htdocs\books_2_1\config\config.php on line 34
+[15-May-2025 17:08:24 Europe/Berlin] Failed to create upload directory
+[15-May-2025 17:08:24 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:24 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:24 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:24 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:25 Europe/Berlin] PHP Warning:  mkdir(): File exists in G:\xampp\htdocs\books_2_1\config\config.php on line 34
+[15-May-2025 17:08:25 Europe/Berlin] Failed to create upload directory
+[15-May-2025 17:08:25 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:25 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:25 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:25 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:25 Europe/Berlin] PHP Warning:  mkdir(): File exists in G:\xampp\htdocs\books_2_1\config\config.php on line 34
+[15-May-2025 17:08:25 Europe/Berlin] Failed to create upload directory
+[15-May-2025 17:08:25 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:25 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:25 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:25 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:26 Europe/Berlin] PHP Warning:  mkdir(): File exists in G:\xampp\htdocs\books_2_1\config\config.php on line 34
+[15-May-2025 17:08:26 Europe/Berlin] Failed to create upload directory
+[15-May-2025 17:08:26 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:26 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  mkdir(): File exists in G:\xampp\htdocs\books_2_1\config\config.php on line 34
+[15-May-2025 17:08:27 Europe/Berlin] Failed to create upload directory
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  mkdir(): File exists in G:\xampp\htdocs\books_2_1\config\config.php on line 34
+[15-May-2025 17:08:27 Europe/Berlin] Failed to create upload directory
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  mkdir(): File exists in G:\xampp\htdocs\books_2_1\config\config.php on line 34
+[15-May-2025 17:08:27 Europe/Berlin] Failed to create upload directory
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:08:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:09:17 Europe/Berlin] PHP Warning:  mkdir(): File exists in G:\xampp\htdocs\books_2_1\config\config.php on line 34
+[15-May-2025 17:09:17 Europe/Berlin] Failed to create upload directory
+[15-May-2025 17:09:17 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:09:17 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 27
+[15-May-2025 17:09:17 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:09:17 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 31
+[15-May-2025 17:10:42 Europe/Berlin] PHP Warning:  mkdir(): File exists in G:\xampp\htdocs\books_2_1\config\config.php on line 34
+[15-May-2025 17:10:42 Europe/Berlin] Failed to create upload directory
+[15-May-2025 17:10:42 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 30
+[15-May-2025 17:10:42 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 30
+[15-May-2025 17:10:42 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 34
+[15-May-2025 17:10:42 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 34
+[15-May-2025 17:11:31 Europe/Berlin] PHP Warning:  mkdir(): File exists in G:\xampp\htdocs\books_2_1\config\config.php on line 34
+[15-May-2025 17:11:31 Europe/Berlin] Failed to create upload directory
+[15-May-2025 17:11:31 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:11:31 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:11:31 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:11:31 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:16:33 Europe/Berlin] PHP Warning:  mkdir(): File exists in G:\xampp\htdocs\books_2_1\config\config.php on line 34
+[15-May-2025 17:16:33 Europe/Berlin] Failed to create upload directory
+[15-May-2025 17:16:33 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:16:33 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:16:33 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:16:33 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:16:35 Europe/Berlin] PHP Warning:  mkdir(): File exists in G:\xampp\htdocs\books_2_1\config\config.php on line 34
+[15-May-2025 17:16:35 Europe/Berlin] Failed to create upload directory
+[15-May-2025 17:16:35 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:16:35 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:16:35 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:16:35 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:17:57 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:17:57 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:17:57 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:17:57 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:18:07 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:18:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:18:07 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:18:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:18:43 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:18:43 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:18:43 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:18:43 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:18:44 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:18:44 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:18:44 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:18:44 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:18:45 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:18:45 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:18:45 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:18:45 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:20:39 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:20:39 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:20:39 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:20:39 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:53:45 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:53:45 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:53:45 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:53:45 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:54:18 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:54:18 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:54:18 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:54:18 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:57:10 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:57:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 17:57:10 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 17:57:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:03:16 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:03:16 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:03:16 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:03:16 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:12:22 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:22 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:22 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:22 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:22 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:22 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:12:22 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:12:22 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:12:22 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:12:24 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:24 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:24 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:24 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:24 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:24 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:12:24 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:12:24 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:12:24 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:12:37 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:37 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:37 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:37 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:37 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:12:37 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:12:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:12:37 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:12:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
