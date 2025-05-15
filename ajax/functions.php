@@ -1,5 +1,4 @@
 <?php
-// Изменяем путь к config.php в зависимости от расположения файла
 require_once __DIR__ . '/../config/config.php';
 
 class BookService

@@ -1,17 +1,26 @@
 <?php
-require_once 'ajax/functions.php';
-
-session_start();
+require_once 'functions.php';
 
 // AJAX-режим для получения списка книг
 if (isset($_GET['ajax'])) {
     $currentPage = $_GET['page'] ?? 1;
     $perPage = $_GET['per_page'] ?? 10;
-    $booksData = $bookService->getBooksPaginated($currentPage, $perPage);
     
-    include 'includes/book-table.php';
+    try {
+        $booksData = $bookService->getBooksPaginated($currentPage, $perPage);
+        include 'includes/book-table.php';
+    } catch (Exception $e) {
+        http_response_code(500);
+        echo '<div class="alert alert-danger">Ошибка загрузки списка книг</div>';
+    }
     exit;
 }
+
+// Инициализация CSRF-токена
+if (empty($_SESSION['csrf_token'])) {
+    $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
+}
+
 
 $currentPage = $_GET['page'] ?? 1;
 $perPage = isset($_GET['per_page']) ? (int)$_GET['per_page'] : 5;
