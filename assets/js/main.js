@@ -130,6 +130,165 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     });
+
+    document.getElementById('add-book-form').addEventListener('submit', async (e) => {
+        e.preventDefault();
+        
+        const form = e.target;
+        const submitBtn = form.querySelector('button[type="submit"]');
+        const originalText = submitBtn.innerHTML;
+        
+        try {
+            // Показать состояние загрузки
+            submitBtn.disabled = true;
+            submitBtn.innerHTML = '<span class="spinner-border spinner-border-sm"></span> Добавление...';
+            
+            // Отправка данных
+            const response = await fetch('ajax/actions.php', {
+                method: 'POST',
+                body: new FormData(form)
+            });
+            
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            
+            const result = await response.json();
+            console.log("Результат:", result);
+            
+            if (result.success) {
+                // 1. Закрыть модальное окно
+                bootstrap.Offcanvas.getInstance(document.getElementById('offcanvasRight')).hide();
+                
+                // 2. Показать уведомление
+                showToast('Успех!', result.message, 'success');
+                
+                // 3. Обновить список книг
+                await refreshBookList();
+                
+                // 4. Очистить форму
+                form.reset();
+            } else {
+                throw new Error(result.message);
+            }
+        } catch (error) {
+            console.error("Ошибка:", error);
+            showToast('Ошибка', error.message, 'danger');
+        } finally {
+            submitBtn.disabled = false;
+            submitBtn.innerHTML = originalText;
+        }
+    });
+    
+    // Функция обновления списка книг
+    async function refreshBookList() {
+        try {
+            const response = await fetch('index.php?ajax=1');
+            if (!response.ok) throw new Error('Ошибка загрузки списка');
+            const html = await response.text();
+            document.getElementById('books-container').innerHTML = html;
+        } catch (error) {
+            console.error("Ошибка обновления:", error);
+            // Fallback: перезагрузка страницы
+            window.location.reload();
+        }
+    }
+    
+    // Функция показа уведомлений
+    function showToast(title, message, type) {
+        const toastHtml = `
+            <div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+                <div class="toast show" role="alert">
+                    <div class="toast-header bg-${type} text-white">
+                        <strong class="me-auto">${title}</strong>
+                        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="toast"></button>
+                    </div>
+                    <div class="toast-body">
+                        ${message}
+                    </div>
+                </div>
+            </div>
+        `;
+        
+        document.body.insertAdjacentHTML('beforeend', toastHtml);
+        setTimeout(() => document.querySelector('.toast').remove(), 5000);
+    }
+    
+    // Функция обновления списка книг
+    async function refreshBookList() {
+        try {
+            const response = await fetch('index.php?get_books=1');
+            const html = await response.text();
+            document.getElementById('books-container').innerHTML = html;
+        } catch (error) {
+            console.error("Ошибка обновления списка:", error);
+            // Fallback - перезагрузка страницы
+            window.location.reload();
+        }
+    }
+    
+    // Функция показа уведомлений
+    function showAlert(title, message, type) {
+        const alertHtml = `
+            <div class="alert alert-${type} alert-dismissible fade show" role="alert">
+                <strong>${title}</strong> ${message}
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+            </div>
+        `;
+        
+        // Добавляем в начало контейнера
+        const container = document.querySelector('.container');
+        container.insertAdjacentHTML('afterbegin', alertHtml);
+        
+        // Автоматическое скрытие через 5 сек
+        setTimeout(() => {
+            const alert = document.querySelector('.alert');
+            if (alert) alert.remove();
+        }, 5000);
+    }
+    
+    // Функция для загрузки списка книг
+    async function loadBooks() {
+        try {
+            const response = await fetch('index.php?ajax=1');
+            const html = await response.text();
+            document.getElementById('books-container').innerHTML = html;
+        } catch (error) {
+            console.error('Ошибка загрузки книг:', error);
+        }
+    }
+    
+    // Функция для показа уведомлений
+    function showToast(title, message, type) {
+        const toastContainer = document.getElementById('toast-container') || createToastContainer();
+        const toastId = 'toast-' + Date.now();
+        
+        toastContainer.insertAdjacentHTML('beforeend', `
+            <div id="${toastId}" class="toast align-items-center text-white bg-${type} border-0" role="alert">
+                <div class="d-flex">
+                    <div class="toast-body">
+                        <strong>${title}</strong><br>${message}
+                    </div>
+                    <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"></button>
+                </div>
+            </div>
+        `);
+        
+        const toast = new bootstrap.Toast(document.getElementById(toastId));
+        toast.show();
+        
+        // Автоматическое скрытие через 5 секунд
+        setTimeout(() => toast.dispose(), 5000);
+    }
+    
+    function createToastContainer() {
+        const container = document.createElement('div');
+        container.id = 'toast-container';
+        container.className = 'position-fixed bottom-0 end-0 p-3';
+        container.style.zIndex = '11';
+        document.body.appendChild(container);
+        return container;
+    }
     
     // Инициализация при загрузке
     initEventListeners();

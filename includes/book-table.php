@@ -27,7 +27,7 @@
                             <i class="bi bi-three-dots-vertical"></i>
                         </button>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="edit.php?id=<?= $book['idLibro'] ?>">
+                            <li><a class="dropdown-item" href="ajax/edit.php?id=<?= htmlspecialchars($book['idLibro']) ?>">
                                     <i class="bi bi-pencil me-2"></i>Редактировать
                                 </a></li>
                             <li>

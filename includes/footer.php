@@ -9,7 +9,8 @@
         <!-- card body -->
         <div class="container">
             <!-- form -->
-            <form method="post" action="actions.php" enctype="multipart/form-data">
+            <form id="add-book-form" method="post" enctype="multipart/form-data">
+                <input type="hidden" name="csrf_token" value="<?= $_SESSION['csrf_token'] ?>">
                 <!-- form group -->
                 <div class="mb-3 col-12">
                     <div class="form-group">
@@ -58,6 +59,15 @@
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"></script>
 <script src="assets/js/main.js"></script>
+
+<!-- Toast контейнер будет создаваться автоматически -->
+<script>
+    // Инициализация всех toast элементов
+    document.querySelectorAll('.toast').forEach(toastEl => {
+        new bootstrap.Toast(toastEl).show();
+    });
+</script>
+
 </body>
 
 </html>

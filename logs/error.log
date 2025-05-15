@@ -153,3 +153,318 @@
 [15-May-2025 19:12:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
 [15-May-2025 19:12:37 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
 [15-May-2025 19:12:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:35:43 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:35:43 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:35:43 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:35:43 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:35:43 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:35:43 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:35:43 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:35:43 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:35:43 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:38:27 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:38:27 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:38:27 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:38:27 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:38:27 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:38:27 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:38:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:38:27 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:38:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:42:30 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:42:30 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:42:30 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:42:30 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:42:30 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:42:30 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:42:30 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:42:30 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:42:30 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:42:30 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\footer.php on line 13
+[15-May-2025 19:43:46 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:43:46 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:43:46 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:43:46 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:43:46 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\book-table.php on line 37
+[15-May-2025 19:43:46 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:43:46 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:43:46 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:43:46 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:43:46 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in G:\xampp\htdocs\books_2_1\includes\footer.php on line 13
+[15-May-2025 19:49:23 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:49:23 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:49:23 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:49:23 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:49:23 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:49:24 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:49:24 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:49:24 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:49:24 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:49:24 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:37 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:50:37 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:37 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:39 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:50:39 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:39 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:39 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:39 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:50:40 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:40 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:40 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:40 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:41 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:50:41 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:41 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:41 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:41 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:44 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:50:44 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:44 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:44 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:44 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:48 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:50:48 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:48 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:48 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:48 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:53 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:50:53 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:53 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:53 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:53 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:55 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:50:55 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:55 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:50:55 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:50:55 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:51:02 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:51:02 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:51:02 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:51:02 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:51:02 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:51:06 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:51:06 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:51:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:51:06 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:51:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:53:50 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:53:50 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:53:50 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:53:50 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:53:50 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:56:52 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:56:52 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:56:52 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:56:52 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:56:52 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:56:52 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:56:52 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:56:52 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:56:52 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:56:52 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:59:27 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:59:27 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:59:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:59:27 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:59:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:59:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 19:59:40 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:59:40 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 19:59:40 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 19:59:40 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:01:19 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:01:19 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:01:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:01:19 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:01:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:08:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:08:47 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:08:47 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:08:47 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:08:47 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:13:23 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:13:23 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:13:23 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:13:23 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:13:23 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:13:27 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:13:27 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:13:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:13:27 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:13:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:13:33 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:13:33 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:13:33 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:13:33 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:13:33 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:30 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:30 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:30 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:30 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:30 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:30 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:30 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:30 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:30 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:30 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:31 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:31 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:31 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:31 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:31 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:32 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:32 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:32 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:32 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:32 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:33 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:33 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:33 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:33 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:33 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:33 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:33 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:33 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:33 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:33 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:34 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:34 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:34 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:34 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:34 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:35 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:35 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:35 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:35 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:35 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:35 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:35 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:35 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:35 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:35 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:36 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:36 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:36 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:36 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:36 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:36 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:36 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:36 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:36 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:36 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:37 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:37 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:37 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:37 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:37 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:37 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:38 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:38 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:38 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:38 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:38 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:38 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:38 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:38 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:38 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:38 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:43 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 20:30:43 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:43 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 20:30:43 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 20:30:43 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 21:41:59 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 21:41:59 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 21:41:59 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 21:41:59 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 21:41:59 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 21:43:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 21:43:09 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 21:43:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 21:43:09 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 21:43:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 21:43:54 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in G:\xampp\htdocs\books_2_1\includes\header.php on line 2
+[15-May-2025 21:43:54 Europe/Berlin] PHP Warning:  include(cheap-books-table.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 21:43:54 Europe/Berlin] PHP Warning:  include(): Failed opening 'cheap-books-table.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 44
+[15-May-2025 21:43:54 Europe/Berlin] PHP Warning:  include(book-form-modal.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 21:43:54 Europe/Berlin] PHP Warning:  include(): Failed opening 'book-form-modal.php' for inclusion (include_path='G:\xampp\php\PEAR') in G:\xampp\htdocs\books_2_1\includes\book-list.php on line 48
+[15-May-2025 21:44:30 Europe/Berlin] Array
+(
+    [csrf_token] => 2f3aea31245584300302ac56b1ca995f838bf851e98dcbaa290ec4d68169dfac
+    [title] => Мартин Иден
+    [author] => Джек Лондон
+    [price] => 6.34
+    [publishYear] => 2022
+    [isbn] => 9785040988174
+)
+
+[15-May-2025 21:44:30 Europe/Berlin] Array
+(
+    [image] => Array
+        (
+            [name] => 411643830741_519626.jpg
+            [full_path] => 411643830741_519626.jpg
+            [type] => image/jpeg
+            [tmp_name] => G:\xampp\tmp\phpA04A.tmp
+            [error] => 0
+            [size] => 340639
+        )
+
+)
+
+[15-May-2025 21:44:32 Europe/Berlin] Array
+(
+    [csrf_token] => 2f3aea31245584300302ac56b1ca995f838bf851e98dcbaa290ec4d68169dfac
+    [title] => Мартин Иден
+    [author] => Джек Лондон
+    [price] => 6.34
+    [publishYear] => 2022
+    [isbn] => 9785040988174
+)
+
+[15-May-2025 21:44:32 Europe/Berlin] Array
+(
+    [image] => Array
+        (
+            [name] => 411643830741_519626.jpg
+            [full_path] => 411643830741_519626.jpg
+            [type] => image/jpeg
+            [tmp_name] => G:\xampp\tmp\phpA8D6.tmp
+            [error] => 0
+            [size] => 340639
+        )
+
+)
+
+[15-May-2025 21:44:33 Europe/Berlin] Array
+(
+    [csrf_token] => 2f3aea31245584300302ac56b1ca995f838bf851e98dcbaa290ec4d68169dfac
+    [title] => Мартин Иден
+    [author] => Джек Лондон
+    [price] => 6.34
+    [publishYear] => 2022
+    [isbn] => 9785040988174
+)
+
+[15-May-2025 21:44:33 Europe/Berlin] Array
+(
+    [image] => Array
+        (
+            [name] => 411643830741_519626.jpg
+            [full_path] => 411643830741_519626.jpg
+            [type] => image/jpeg
+            [tmp_name] => G:\xampp\tmp\phpAD1D.tmp
+            [error] => 0
+            [size] => 340639
+        )
+
+)
+

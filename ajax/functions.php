@@ -162,37 +162,46 @@ class BookService
         }
     }
 
-    public function updateBook($id, $data)
-    {
-        try {
-            $stmt = $this->conn->prepare("UPDATE Books SET 
-                title = ?, 
-                author = ?, 
-                price = ?, 
-                publishDate = ?, 
-                isbn = ? 
-                WHERE idLibro = ?");
-
-            $publishDate = !empty($data['publishYear']) ? $data['publishYear'] . '-01-01' : null;
-
-            $stmt->bind_param(
-                "ssdssi",
-                $data['title'],
-                $data['author'],
-                $data['price'],
-                $publishDate,
-                $data['isbn'],
-                $id
-            );
-
-            if (!$stmt->execute()) {
-                throw new Exception("Failed to update book: " . $stmt->error);
+    public function updateBook($id, $data) {
+        $this->validateBookData($data); // Новая функция валидации
+        
+        $stmt = $this->conn->prepare("UPDATE Books SET 
+            title = ?, 
+            author = ?, 
+            price = ?, 
+            publishYear = ?,
+            isbn = ?
+            WHERE idLibro = ?");
+        
+        $publishYear = !empty($data['publishYear']) ? $data['publishYear'] : null;
+        
+        $stmt->bind_param(
+            "ssdssi",
+            $data['title'],
+            $data['author'],
+            $data['price'],
+            $publishYear,
+            $data['isbn'],
+            $id
+        );
+        
+        if (!$stmt->execute()) {
+            throw new Exception("Ошибка обновления: " . $stmt->error);
+        }
+        
+        return true;
+    }
+    
+    private function validateBookData($data) {
+        $required = ['title', 'author', 'price'];
+        foreach ($required as $field) {
+            if (empty($data[$field])) {
+                throw new Exception("Поле {$field} обязательно для заполнения");
             }
-
-            return true;
-        } catch (Exception $e) {
-            error_log($e->getMessage());
-            throw new Exception("Error updating book");
+        }
+        
+        if ($data['price'] <= 0) {
+            throw new Exception("Цена должна быть положительной");
         }
     }
 }

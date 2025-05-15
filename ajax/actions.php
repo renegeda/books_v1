@@ -1,85 +1,64 @@
 <?php
 require_once __DIR__ . '/functions.php';
 
+// ini_set('display_errors', 1);
+// ini_set('display_startup_errors', 1);
+// error_reporting(E_ALL);
+
 session_start();
 
-header('Content-Type: application/json'); // По умолчанию для всех ответов
+// Разрешаем CORS для AJAX-запросов
+header("Access-Control-Allow-Origin: {$_SERVER['HTTP_ORIGIN']}");
+header("Access-Control-Allow-Credentials: true");
+header("Access-Control-Allow-Methods: POST");
+header("Access-Control-Allow-Headers: Content-Type");
 
-function sendResponse($success, $message = '', $redirect = null) {
-    $response = [
-        'success' => $success,
-        'message' => $message,
-        'redirect' => $redirect
-    ];
-    
-    if (!isset($_SERVER['HTTP_X_REQUESTED_WITH']) {
-        // Для обычных запросов сохраняем сообщение в сессии и редиректим
-        if ($success) {
-            $_SESSION['success'] = $message;
-        } else {
-            $_SESSION['error'] = $message;
+// Для простых POST-запросов (не CORS preflight)
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    try {
+        // Проверка CSRF-токена
+        if (empty($_POST['csrf_token']) || $_POST['csrf_token'] !== ($_SESSION['csrf_token'] ?? null)) {
+            throw new Exception("Недействительный CSRF-токен");
         }
-        header("Location: " . ($redirect ?? '../index.php'));
+
+        // Обработка добавления книги
+        if (isset($_POST['addBook'])) {
+            $required = ['title', 'author', 'price'];
+            foreach ($required as $field) {
+                if (empty($_POST[$field])) {
+                    throw new Exception("Поле {$field} обязательно для заполнения");
+                }
+            }
+
+            $bookId = $bookService->addBook(
+                trim($_POST['title']),
+                trim($_POST['author']),
+                (float)$_POST['price'],
+                !empty($_POST['publishYear']) ? (int)$_POST['publishYear'] : null,
+                !empty($_POST['isbn']) ? trim($_POST['isbn']) : null,
+                $_FILES['image'] ?? null
+            );
+
+            echo json_encode([
+                'success' => true,
+                'message' => 'Книга успешно добавлена',
+                'bookId' => $bookId
+            ]);
+            exit;
+        }
+    } catch (Exception $e) {
+        http_response_code(400);
+        echo json_encode([
+            'success' => false,
+            'message' => $e->getMessage()
+        ]);
         exit;
     }
-    
-    // Для AJAX запросов возвращаем JSON
-    echo json_encode($response);
-    exit;
 }
 
-try {
-    if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
-        throw new Exception("Метод запроса не поддерживается");
-    }
+// После успешного добавления
+error_log(print_r($_POST, true));
+error_log(print_r($_FILES, true));
 
-    // Обработка удаления книги
-    if (isset($_POST['deleteId'])) {
-        $bookId = (int)$_POST['deleteId'];
-        
-        if ($bookId <= 0) {
-            throw new Exception("Неверный ID книги");
-        }
-        
-        $success = $bookService->deleteBook($bookId);
-        
-        if (!$success) {
-            throw new Exception("Не удалось удалить книгу");
-        }
-        
-        sendResponse(true, "Книга успешно удалена");
-    }
-
-    // Обработка добавления книги
-    if (isset($_POST['addBook'])) {
-        $requiredFields = ['title', 'author', 'price'];
-        foreach ($requiredFields as $field) {
-            if (empty($_POST[$field])) {
-                throw new Exception("Поле " . ucfirst($field) . " обязательно для заполнения");
-            }
-        }
-        
-        $bookId = $bookService->addBook(
-            trim($_POST['title']),
-            trim($_POST['author']),
-            (float)$_POST['price'],
-            !empty($_POST['publishYear']) ? (int)$_POST['publishYear'] : null,
-            !empty($_POST['isbn']) ? trim($_POST['isbn']) : null,
-            $_FILES['image'] ?? null
-        );
-        
-        sendResponse(true, "Книга успешно добавлена", "../index.php");
-    }
-
-    // Обработка обновления книги (если нужно)
-    if (isset($_POST['updateBook'])) {
-        // ... аналогичная обработка ...
-    }
-
-    // Если ни одно действие не распознано
-    throw new Exception("Неизвестное действие");
-
-} catch (Exception $e) {
-    error_log("Ошибка в actions.php: " . $e->getMessage());
-    sendResponse(false, $e->getMessage());
-}
+http_response_code(403);
+echo json_encode(['success' => false, 'message' => 'Доступ запрещён']);

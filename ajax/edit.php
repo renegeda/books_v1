@@ -1,79 +1,63 @@
 <?php
 require_once __DIR__ . '/functions.php';
-
 session_start();
 
-// Проверка авторизации (если есть)
-if (!isset($_SESSION['user'])) {
+// 1. Проверка авторизации
+if (!isset($_SESSION['user_id'])) {
     $_SESSION['error'] = "Требуется авторизация";
     header("Location: ../index.php");
     exit;
 }
 
-// Проверка ID книги
-if (!isset($_GET['id']) || !is_numeric($_GET['id'])) {
+// 2. Валидация ID
+$bookId = filter_input(INPUT_GET, 'id', FILTER_VALIDATE_INT);
+if (!$bookId) {
     $_SESSION['error'] = "Неверный ID книги";
     header("Location: ../index.php");
     exit;
 }
 
-$bookId = (int)$_GET['id'];
-
+// 3. Получение книги
 try {
     $book = $bookService->getBookById($bookId);
-    
     if (!$book) {
-        $_SESSION['error'] = "Книга не найдена";
-        header("Location: ../index.php");
-        exit;
+        throw new Exception("Книга не найдена");
     }
 } catch (Exception $e) {
-    $_SESSION['error'] = "Ошибка загрузки данных: " . $e->getMessage();
+    $_SESSION['error'] = $e->getMessage();
     header("Location: ../index.php");
     exit;
 }
 
-// Обработка формы
+// 4. Обработка формы
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     try {
-        $bookService->updateBook($bookId, [
-            'title' => $_POST['title'],
-            'author' => $_POST['author'],
-            'price' => $_POST['price'],
-            'publishYear' => $_POST['publishYear'],
-            'isbn' => $_POST['isbn'] ?? null
-        ]);
+        $data = [
+            'title' => trim($_POST['title']),
+            'author' => trim($_POST['author']),
+            'price' => (float)$_POST['price'],
+            'publishYear' => !empty($_POST['publishYear']) ? (int)$_POST['publishYear'] : null,
+            'isbn' => !empty($_POST['isbn']) ? trim($_POST['isbn']) : null
+        ];
+        
+        $bookService->updateBook($bookId, $data);
         
         $_SESSION['success'] = "Книга успешно обновлена";
         header("Location: ../index.php");
         exit;
     } catch (Exception $e) {
-        $_SESSION['error'] = "Ошибка обновления: " . $e->getMessage();
+        $_SESSION['error'] = $e->getMessage();
     }
 }
 
-// Подключаем шапку
-require __DIR__ . '/../includes/header.php';
+// 5. Подключение шаблонов
+require __DIR__ . '/../header.php';
 ?>
 
+<!-- Форма редактирования -->
 <div class="container mt-4">
-    <h1>Редактировать книгу</h1>
-    
-    <?php if (isset($_SESSION['error'])): ?>
-        <div class="alert alert-danger"><?= htmlspecialchars($_SESSION['error']) ?></div>
-        <?php unset($_SESSION['error']); ?>
-    <?php endif; ?>
-    
-    <form method="POST" enctype="multipart/form-data">
-        <!-- Поля формы остаются такими же -->
-        <!-- ... -->
-        
-        <button type="submit" class="btn btn-primary">Сохранить</button>
-        <a href="../index.php" class="btn btn-secondary">Отмена</a>
-    </form>
+    <!-- ... существующая форма ... -->
 </div>
 
 <?php
-// Подключаем подвал
-require __DIR__ . '/../includes/footer.php';
-?>
+require __DIR__ . '/../footer.php';

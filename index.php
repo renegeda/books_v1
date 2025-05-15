@@ -3,6 +3,16 @@ require_once 'ajax/functions.php';
 
 session_start();
 
+// AJAX-режим для получения списка книг
+if (isset($_GET['ajax'])) {
+    $currentPage = $_GET['page'] ?? 1;
+    $perPage = $_GET['per_page'] ?? 10;
+    $booksData = $bookService->getBooksPaginated($currentPage, $perPage);
+    
+    include 'includes/book-table.php';
+    exit;
+}
+
 $currentPage = $_GET['page'] ?? 1;
 $perPage = isset($_GET['per_page']) ? (int)$_GET['per_page'] : 5;
 
